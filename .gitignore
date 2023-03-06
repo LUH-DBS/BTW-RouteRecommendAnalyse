@@ -1,0 +1,9 @@
+dataset/**/*
+dbconfig.settings
+**/__pycache__
+attlist*.txt
+AutogluonModels/**/*
+**/*.csv
+**/*_id.txt
+**/*.pdf
+**/*.png

@@ -1,0 +1,8 @@
+pandas
+numpy
+tqdm
+geopy
+psycopg2
+requests
+autogulon
+shap
