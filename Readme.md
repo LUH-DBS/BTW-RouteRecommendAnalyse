@@ -5,7 +5,7 @@ Dakai Men, Jannis Becktepe, Mahdi Esmailoghli, David Bermbach, Ziawasch Abedjan
 
 ## General
 
-1. This repository is the implementation of Data Science Challenge of the 30th BTW conference
+1. This repository is the implementation of Data Science Challenge of the 20th BTW conference
 2. All database and path-related information is not included and should be adapted manually
 3. Each file in the directory `luhbike` serves as a stand-alone script for a specific module and can be executed individually
 
